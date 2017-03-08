@@ -17,10 +17,10 @@
 3. mit Sign Off Änderungen kommentieren 
 4. mit Commit bestätigen
 5. mit Push Änderungen hochladen 
-
-### GitHub
-1. Erstellen eines neuen Respository 
-2. im Gid Gui unter Remote, Add, den neuen Respository hinzufügen 
+	* GitHub
+		1. Erstellen eines neuen Respository 
+		2. im Git Gui unter Remote, Add, den neuen Respository hinzufügen 
+		3. mit push wird das Dokument hochgeladen
 
 
 
