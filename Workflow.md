@@ -21,6 +21,18 @@
 		1. Erstellen eines neuen Respository 
 		2. im Git Gui unter Remote, Add, den neuen Respository hinzufügen 
 		3. mit push wird das Dokument hochgeladen
+				
+## History Workflow		
+![History Workflow](History.png)
+Quelle: Eigene Darstellung
 
+## Darstellung im Web
+1. Markdown View herunterladen 
+2. Dokument aus Ordner in das Webfenster ziehen
+3. Nach Änderungen Web-page einfach neu laden um Änderungen ersichtlich zu machen
+
+## Bild einfügen
+1. Bild im Ordner abspeichern
+2. mit ! [Titel des Bildes] (Dateiname im Ordner .png oder .jpg) einfügen (Ohne Leerzeichen)
 
 
