@@ -18,3 +18,9 @@
 4. mit Commit bestätigen
 5. mit Push Änderungen hochladen 
 
+### GitHub
+1. Erstellen eines neuen Respository 
+2. im Gid Gui unter Remote, Add, den neuen Respository hinzufügen 
+
+
+
